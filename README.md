@@ -1,5 +1,6 @@
 # Tomato Leaf Disease Classification Using Transfer Learning and Feature Concatenation  
 Official Implementation of the IET Image Processing Paper (2022)
+![Figure 5-Concatenation based approach](https://github.com/user-attachments/assets/386f0452-ec04-40a5-83f1-6069f36d1a41)
 
 ---
 
@@ -117,9 +118,6 @@ Performance on Tomato Leaf Dataset:
 | RF        | 88–96%   |
 | SVM       | 89–94%   |
 | **MLR**   | **97%**  |
-
-Confusion matrices and ROC curves are provided in the paper (pages 10–12).  
-:contentReference[oaicite:1]{index=1}
 
 ---
 
